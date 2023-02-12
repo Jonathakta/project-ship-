@@ -12,7 +12,7 @@ shipImg = loadAnimation(
 
   "assets/ship-2.png",
 
-  "assets/ship=3.png",
+  "assets/ship-3.png",
 
   "assets/ship-4.png"
   
